@@ -1,0 +1,44 @@
+body {
+  background-color: var(--very-pale-blue);
+  background-image: url('../images/pattern-background-desktop.svg');
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.container {
+  width: 50%;
+}
+.container h1 {
+  font-size: 2rem;
+  margin: 1.5rem 0;
+}
+.container > p {
+  font-size: 1.4rem;
+  padding: 0 3.5rem;
+}
+.container .plans {
+  margin: 2rem auto;
+}
+.plans .plans--img img {
+  width: 90%;
+}
+.plans .plans--price {
+  margin-left: 7%;
+}
+.plans .plans--price > h2 {
+  font-size: 1.4rem;
+  top: -0.8rem;
+}
+.plans .plans--price > p {
+  font-size: 1.3rem;
+}
+.plans > a {
+  font-size: 1.4rem;
+  margin-right: 4%;
+}
+
+.container button {
+  padding: 1.8rem 0;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}

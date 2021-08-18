@@ -1,0 +1,12 @@
+.container {
+  width: 35%;
+}
+.container > p {
+  font-size: 1.3rem;
+  letter-spacing: 0;
+  padding: 0 4rem;
+}
+.container button {
+  padding: 1.5rem 0;
+  margin-bottom: 1.5rem;
+}
