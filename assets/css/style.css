@@ -6,9 +6,9 @@
   box-sizing: border-box;
 }
 :root {
-  --pale-blue: #003bef;
+  --pale-blue: #e0e8ff;
   --bright-blue: #3829e0;
-  --very-pale-blue: #e0e8ff;
+  --very-pale-blue: #f5f7ff;
   --desaturated-blue: #7280a7;
   --dark-blue: #1f2f56;
 }
@@ -18,7 +18,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  background-color: var(--very-pale-blue);
+  background-color: var(--pale-blue);
   background-image: url('../images/pattern-background-mobile.svg');
   background-position: center;
   background-repeat: no-repeat;
